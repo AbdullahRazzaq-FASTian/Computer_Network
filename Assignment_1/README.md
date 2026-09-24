@@ -11,5 +11,3 @@ BCS-5A
 
 ## Domain 3 : www.bbc.co.uk
 <img width="852" height="1225" alt="image" src="https://github.com/user-attachments/assets/9f613434-b3d0-4a39-8e58-1d3cec2fa5ae" />
-
-## Domain 1 : google.com
