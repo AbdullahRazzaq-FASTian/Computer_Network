@@ -1,4 +1,4 @@
-# Assignment 1 - Outputs Screenshots
+# Assignment 1 - Sec_A Outputs Screenshots
 Abdullah Razzaq 
 24K-0691  
 BCS-5A  
